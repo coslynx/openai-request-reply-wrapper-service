@@ -1,0 +1,27 @@
+# Ignore environment variables
+.env
+
+# Ignore compiled Python bytecode files
+__pycache__/
+
+# Ignore log files
+*.log
+
+# Ignore database files
+*.db
+*.sqlite
+
+# Ignore IDE configuration files
+.vscode/
+
+# Ignore test coverage reports
+coverage.xml
+
+# Ignore build artifacts
+build/
+
+# Ignore documentation files
+docs/
+
+# Ignore unused files
+unused.py
